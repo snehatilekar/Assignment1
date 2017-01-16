@@ -1,0 +1,13 @@
+Bubble sort(List)
+
+elements in the list
+
+if list i > list i+1
+
+swap (list i,list i+1)
+
+else 
+
+break
+
+return list

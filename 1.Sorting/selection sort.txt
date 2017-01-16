@@ -1,0 +1,9 @@
+set min=0
+
+search min element in the list
+
+swap the value to min location
+
+increment min value to next element
+
+reapeat the procedure until list sorted

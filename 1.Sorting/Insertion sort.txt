@@ -1,0 +1,9 @@
+if first element sorted return 1
+
+select next element
+
+compare element with all sorted element
+
+shift all element to the sorted list
+
+repeat the procedure until list is sortd
